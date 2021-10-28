@@ -1,2 +1,2 @@
-# Movie-List
-Tugas GDSC Movie-List
+# Tugas-GDSC
+Repository Tugas GDSC ITB
